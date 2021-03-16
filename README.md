@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/agencyenterprise/react-native-health)
+
 <img style="float: left;" src="https://i.imgur.com/q5PS8gU.png">
 
 # React Native Health
